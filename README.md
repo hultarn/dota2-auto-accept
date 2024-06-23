@@ -12,8 +12,6 @@ The program works by taking a screenshot and comparing it to `dotapic.png`. If t
 
 ## How to Use
 
-Put dotapic.png in "C:\" 
-
 1. Put `dotapic.png` in `C:\`
 2. Start Main.java
 3. The program can be shut off by closing the window. It will also close itself after accepting a game.
